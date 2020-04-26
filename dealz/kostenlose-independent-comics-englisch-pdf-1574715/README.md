@@ -1,0 +1,1 @@
+NodeJS installieren https://nodejs.org/de/ und die Datei *rename-books.js* in den Ordner mit den pdfs kopieren. Über die Konsole ausführen via `node rename-books.js`. Anschließend sollten alle Dateien umbenannt sein und die Script Datei kann gelöscht werden.
